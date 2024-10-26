@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragment Explorer</string>
+    <string name="first_fragment">First Section</string>
+    <string name="second_fragment">Second Section</string>
+    <string name="third_fragment">Third Section</string>
+    <string name="navigate_to_second">Navigate to Second Section</string>
+    <string name="navigate_to_third">Navigate to Third Section</string>
+    <string name="back_to_first">Return to First Section</string>
+</resources>

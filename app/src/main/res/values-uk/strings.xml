@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Фрагментний Додаток</string>
+    <string name="first_fragment">Фрагмент Перший</string>
+    <string name="second_fragment">Фрагмент Другий</string>
+    <string name="third_fragment">Фрагмент Третій</string>
+    <string name="navigate_to_second">Перехід до Другого Фрагменту</string>
+    <string name="navigate_to_third">Перехід до Третього Фрагменту</string>
+    <string name="back_to_first">Назад до Першого Фрагменту</string>
+</resources>
